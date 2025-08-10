@@ -34,7 +34,7 @@
 		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента" id="aad8f946-f532-4837-afc7-55a1125cb27f" configVersion="d4cb52c7da52e54bbd56b0c5f75d025700000000"/>
 		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента.Form" id="aad8f946-f532-4837-afc7-55a1125cb27f.0" configVersion="9c9338ed14ace1459416593f36ae402f00000000"/>
 		<Metadata name="Document.ПоступлениеТоваров.ObjectModule" id="424a5787-7b7d-4214-8d47-c7d061a6f615.0" configVersion="9b4ce0805ce10149a80ca0a109ada69c00000000"/>
-		<Metadata name="Document.РеализацияТоваров" id="db6d52a4-caaa-426c-a730-44aa0ba49551" configVersion="a3198280e486914eba0a2941dbae9f8500000000">
+		<Metadata name="Document.РеализацияТоваров" id="db6d52a4-caaa-426c-a730-44aa0ba49551" configVersion="7bdee9fcef9a3a45820d1ec6a65b158500000000">
 			<Metadata name="Document.РеализацияТоваров.Attribute.СуммаПоДокументу" id="00c1e6bd-dd6d-4c43-874a-bcf08d553c03"/>
 			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары.Attribute.Номенклатура" id="0cdeb6b6-6403-44c6-8a4c-9d2660245e69"/>
 			<Metadata name="Document.РеализацияТоваров.TabularSection.Товары.Attribute.СрокГодности" id="12434627-4043-4af3-9d94-3394721a731c"/>
@@ -50,7 +50,7 @@
 		<Metadata name="Document.РеализацияТоваров.Form.ФормаДокумента.Help" id="fddceb89-c70b-4eac-aaeb-2f1d852fce1e.1" configVersion="d5a3e1775beffb47851df55dd798776b00000000"/>
 		<Metadata name="Document.РеализацияТоваров.Help" id="db6d52a4-caaa-426c-a730-44aa0ba49551.1" configVersion="723fd7c7e345a94daadf85a684c25bcf00000000"/>
 		<Metadata name="Document.РеализацияТоваров.ManagerModule" id="db6d52a4-caaa-426c-a730-44aa0ba49551.2" configVersion="4898f823aa81df4baf4a77ef79eedfb400000000"/>
-		<Metadata name="Document.РеализацияТоваров.ObjectModule" id="db6d52a4-caaa-426c-a730-44aa0ba49551.0" configVersion="3b57f7a8a819a34da15061ab3f2fe90800000000"/>
+		<Metadata name="Document.РеализацияТоваров.ObjectModule" id="db6d52a4-caaa-426c-a730-44aa0ba49551.0" configVersion="965c9e62df1e9f4ca8f3b8fdd8b2ed2200000000"/>
 		<Metadata name="Document.УстановкаЦен" id="7a3d7dbb-de91-41ce-b8e2-c266d2357bc2" configVersion="a9625b4282952741ab8bea5d9def5cb600000000">
 			<Metadata name="Document.УстановкаЦен.TabularSection.Товары" id="05803ae3-959c-411b-a199-5b4ba464930b"/>
 			<Metadata name="Document.УстановкаЦен.Attribute.ВидЦены" id="8830fc71-a67c-41e4-bef9-7e731e5f3411"/>
